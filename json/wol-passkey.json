@@ -11,7 +11,7 @@
   "interface_port": 80,
   "documentation": "https://github.com/brunoz78/wol-passkey/blob/main/README_en.md",
   "website": "https://github.com/brunoz78/wol-passkey",
-  "logo": "https://raw.githubusercontent.com/brunoz78/wol-passkey/main/remote.png",
+  "logo": "https://raw.githubusercontent.com/brunoz78/wol-passkey/main/docs/logo.svg",
   "description": "A lightweight Wake-on-LAN web interface with passkey login (WebAuthn). Flat-file PHP with no database, designed for phones: tap a tile to send the magic packet, and see at a glance which devices are already online.",
   "install_methods": [
     {
